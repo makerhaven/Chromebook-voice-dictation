@@ -1,0 +1,7 @@
+{
+  "name": "Chromebook Voice Dictation",
+  "description": "Chromebook native voice-to-text dictation with live floating input insertion, smart cleanup, approval workflow, and Google Drive cloud backup.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
